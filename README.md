@@ -6,8 +6,7 @@
  - **2019.08~**: [(주)바이브컴퍼니](http://vaiv.kr/)
  - 2015~2019.04: [(주)한컴인스페이스](https://www.inspace.co.kr/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Skills
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white "Angular")
