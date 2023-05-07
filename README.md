@@ -4,7 +4,7 @@
 
 </div>
 
-### 원하는 것 만들어 주는 힘쑨찐 개발자
+### 원하는 것 뚝딱뚝딱 만들어 주는 힘쑨찐 개발자
 - 플랫폼, 언어 안가리는 잡식성
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loeaf)](https://github.com/anuraghazra/github-readme-stats)
