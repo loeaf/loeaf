@@ -8,6 +8,8 @@
 - 플랫폼, 언어 안가리는 잡식성
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loeaf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Skills
@@ -22,8 +24,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white "Python")
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white "Keras")
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white "OpenCV")
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Using
