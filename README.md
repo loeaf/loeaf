@@ -6,10 +6,20 @@
 
 ### 원하는 것 뚝딱뚝딱 만들어 주는 힘쑨찐 개발자
 - 플랫폼, 언어 안가리는 잡식성
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loeaf)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/loeaf">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loeaf&theme=transparent" />
+  </a>
+  <a href="https://github.com/loeaf">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=loeaf&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/loeaf">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=loeaf&theme=transparent" />
+  </a>
+  <a href="https://github.com/loeaf">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=jupyter%20notebook" />
+  </a>
+</p>
 
 
 ### Skills
