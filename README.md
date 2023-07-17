@@ -17,7 +17,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=loeaf&theme=transparent" />
   </a>
   <a href="https://github.com/loeaf">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=jupyter%20notebook" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&layout=compact&size_weight=0.5&count_weight=0.4&langs_count=8&hide=jupyter%20notebook,CSS" />
   </a>
 </p>
 
