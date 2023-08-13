@@ -20,7 +20,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loeaf&theme=transparent&utcOffset=8" />
   </a> 
   <a href="https://github.com/loeaf">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&layout=compact&size_weight=0.5&count_weight=0.4&langs_count=8&hide=jupyter%20notebook,CSS,HTML,SCSS" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loeaf&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.4&langs_count=8&hide=jupyter%20notebook,CSS,HTML,SCSS" />
   </a>
 </p>
 
