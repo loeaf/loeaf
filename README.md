@@ -4,8 +4,8 @@
 
 </div>
 
-### 원하는 것 뚝딱뚝딱 만들어 주는 힘쑨찐 개발자
-- 플랫폼, 언어 안가리는 잡식성
+### A versatile developer with the ability to create what you desire effortlessly.
+- Platform and language agnostic, this developer is a true powerhouse.
 <p align="center">
   <a href="https://github.com/loeaf">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loeaf&theme=transparent" />
@@ -49,9 +49,9 @@
 
 
 ### Experiences
- - **2021~2023.02**: [한국해양대학교](https://www.kmou.ac.kr/kmou/main.do) [데이터정보학과]() 이학석사
- - 2009~2016: [부경대학교](https://www.pknu.ac.kr/main) [컴퓨터공학과](https://itcae.pknu.ac.kr/itcae/1) 공학학사, [인공지능 연구실] 학부연구생, [데이터베이스 연구실] 학부연구생
- - **2023.08~**: [(주)산돌메타랩](https://sandollmetalab.com/)
- - 2019.08~2023.08: [(주)바이브컴퍼니](http://vaiv.kr/)
- - 2015.08~2019.04: [(주)한컴인스페이스](https://www.inspace.co.kr/)
+ - **2021~2023.02**: [Korea Maritime and Ocean University](https://www.kmou.ac.kr/kmou/main.do) [Data Informatics]() Master of Science
+ - 2009~2016: [Pukyong National University](https://www.pknu.ac.kr/main) [Computer Science](https://itcae.pknu.ac.kr/itcae/1) Bachelor of Engineering, [Artificial Intelligence Research Lab] Undergraduate Researcher, [Database Research Lab] Undergraduate Researcher
+ - **2023.08~**: [SanDol MetaLab](https://sandollmetalab.com/)
+ - 2019.08~2023.08: [Vibe Company,](http://vaiv.kr/)
+ - 2015.08~2019.04: [Hancom InSpace](https://www.inspace.co.kr/)
 
