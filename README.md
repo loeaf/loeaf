@@ -52,6 +52,6 @@
  - **2021~2023.02**: [Korea Maritime and Ocean University](https://www.kmou.ac.kr/kmou/main.do) [Data Informatics]() Master of Science
  - 2009~2016: [Pukyong National University](https://www.pknu.ac.kr/main) [Computer Science](https://itcae.pknu.ac.kr/itcae/1) Bachelor of Engineering, [Artificial Intelligence Research Lab] Undergraduate Researcher, [Database Research Lab] Undergraduate Researcher
  - **2023.08~**: [Sandoll MetaLab](https://sandollmetalab.com/)
- - 2019.08~2023.08: [Vibe Company,](http://vaiv.kr/)
+ - 2019.08~2023.08: [Vive Company,](http://vaiv.kr/)
  - 2015.08~2019.04: [Hancom InSpace](https://www.inspace.co.kr/)
 
