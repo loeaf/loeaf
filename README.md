@@ -25,11 +25,12 @@
 </p>
 
 ### Operation Site
-- 2023.11 ~ now: [oMyBaby](https://omb.loeaf.com) - Personal
-- 2023.11 ~ now: [FontSpade](https://fontspade.loeaf.com) - Personal
-- 2023.11 ~ now: [Wordic](http://wordic.loeaf.com) - Personal
 - 2023.08 ~ now: [Hama](https://hama.app) - Sandoll Metalab
-- 2022.01 ~ 2023.08: [DigitalTwin](https://dtinfo.vaiv.kr) - Vaiv Comapny
+- 2023.03 ~ now: [oMyBaby](https://omb.loeaf.com) - Personal
+- 2023.03 ~ now: [FontSpade](https://fontspade.loeaf.com) - Personal
+- 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Personal
+- 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - Vaiv Company
+- 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.vaiv.kr) - Vaiv Comapny
 
 ### Skills
 
