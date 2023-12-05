@@ -26,7 +26,7 @@
 
 ### Operation Site
 - 2023.11 ~ now: [oMyBaby](https://omb.loeaf.com) - Personal
-- 2023.11 ~ now: [FontSpade](https://font-spade.loeaf.com) - Personal
+- 2023.11 ~ now: [FontSpade](https://fontspade.loeaf.com) - Personal
 - 2023.11 ~ now: [Wordic](http://wordic.loeaf.com) - Personal
 - 2023.08 ~ now: [Hama](https://hama.app) - Sandoll Metalab
 - 2022.01 ~ 2023.08: [DigitalTwin](https://dtinfo.vaiv.kr) - Vaiv Comapny
