@@ -32,7 +32,7 @@
 - 2023.03 ~ now: [FontSpade](https://fontspade.loeaf.com) - Personal
 - 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Personal
 - 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - Vaiv Company
-- 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.lg.or.kr) - Vaiv Comapny
+- 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.lh.or.kr) - Vaiv Comapny
 
 ### Skills
 
