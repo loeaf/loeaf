@@ -28,7 +28,7 @@
 - 2024.08 ~ now: [SandollCloud](https://sandollcloud.com) - AI FontSearch
 - 2024.08 ~ now: [FontFont](https://fontfont.app) - AI FontSearch
 - 2024.08 ~ now: [Enterpix](https://enterpix.app) - AI Image Search
-- 2023.12 ~ now: [Fontwiki](https://fontwiki.com) - AI Search Engin
+- 2023.12 ~ now: [Fontwiki](https://fontwiki.com) - AI Text Search
 - 2023.08 ~ now: [Hama](https://hama.app) - AI Image Remove
 - 2024.04 ~ now: [MakeDuty](https://makeduty.com) - AI Duty Generator
 - 2024.04 ~ now: [ComfyPrompt](https://comfyprompt.com) - AI Prompt & Image Search
