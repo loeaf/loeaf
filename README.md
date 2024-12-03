@@ -25,11 +25,11 @@
 </p>
 
 ### Operation Site
-- 2024.08 ~ now: [SandollCloud](https://sandollcloud.com) - Sandoll
-- 2024.08 ~ now: [FontFont](https://fontfont.app) - Sandoll Metalab
-- 2024.08 ~ now: [Enterpix](https://enterpix.app) - Sandoll Metalab
-- 2023.12 ~ now: [Fontwiki](https://fontwiki.com) - Sandoll Metalab
-- 2023.08 ~ now: [Hama](https://hama.app) - Sandoll Metalab
+- 2024.08 ~ now: [SandollCloud](https://sandollcloud.com) - AI FontSearch
+- 2024.08 ~ now: [FontFont](https://fontfont.app) - AI FontSearch
+- 2024.08 ~ now: [Enterpix](https://enterpix.app) - AI Image Search
+- 2023.12 ~ now: [Fontwiki](https://fontwiki.com) - AI Search Engin
+- 2023.08 ~ now: [Hama](https://hama.app) - AI Image Remove
 - 2024.04 ~ now: [MakeDuty](https://makeduty.com) - Personal
 - 2024.04 ~ now: [ComfyPrompt](https://comfyprompt.com) - Personal
 - 2023.03 ~ now: [oMyBaby](https://omb.loeaf.com) - Personal
