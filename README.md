@@ -35,7 +35,7 @@
 - 2023.03 ~ now: [oMyBaby](https://omb.loeaf.com) - Baby Gender Predict Egine
 - 2023.03 ~ now: [FontSpade](https://fontspade.loeaf.com) - Emoji Generate
 - 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Standard Word Generate Egine
-- 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - Metavers Service MMO Egine
+- 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - WegGL Metavers MMO Egine
 - 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.lh.or.kr) - City DigitalTwin Vis Egine
 
 ### Skills
