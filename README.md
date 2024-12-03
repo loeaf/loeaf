@@ -30,13 +30,13 @@
 - 2024.08 ~ now: [Enterpix](https://enterpix.app) - AI Image Search
 - 2023.12 ~ now: [Fontwiki](https://fontwiki.com) - AI Search Engin
 - 2023.08 ~ now: [Hama](https://hama.app) - AI Image Remove
-- 2024.04 ~ now: [MakeDuty](https://makeduty.com) - Personal
-- 2024.04 ~ now: [ComfyPrompt](https://comfyprompt.com) - Personal
-- 2023.03 ~ now: [oMyBaby](https://omb.loeaf.com) - Personal
-- 2023.03 ~ now: [FontSpade](https://fontspade.loeaf.com) - Personal
-- 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Personal
-- 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - Vaiv Company
-- 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.lh.or.kr) - Vaiv Comapny
+- 2024.04 ~ now: [MakeDuty](https://makeduty.com) - AI Duty Generator
+- 2024.04 ~ now: [ComfyPrompt](https://comfyprompt.com) - AI Prompt & Image Search
+- 2023.03 ~ now: [oMyBaby](https://omb.loeaf.com) - Baby Gender Predict
+- 2023.03 ~ now: [FontSpade](https://fontspade.loeaf.com) - Emoji Generate
+- 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Standard Word Generate
+- 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - Metavers Service
+- 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.lh.or.kr) - City DigitalTwin
 
 ### Skills
 
