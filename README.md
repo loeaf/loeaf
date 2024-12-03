@@ -25,8 +25,8 @@
 </p>
 
 ### Operation Site
-- 2024.08 ~ now: [SandollCloud](https://sandollcloud.com) - AI FontSearch
-- 2024.08 ~ now: [FontFont](https://fontfont.app) - AI FontSearch
+- 2024.08 ~ now: [SandollCloud](https://sandollcloud.com) - AI Font Search
+- 2024.08 ~ now: [FontFont](https://fontfont.app) - AI Font Search
 - 2024.08 ~ now: [Enterpix](https://enterpix.app) - AI Image Search
 - 2023.12 ~ now: [Fontwiki](https://fontwiki.com) - AI Text Search
 - 2023.08 ~ now: [Hama](https://hama.app) - AI Image Remove
