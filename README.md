@@ -25,18 +25,18 @@
 </p>
 
 ### Operation Site
-- 2024.08 ~ now: [SandollCloud](https://sandollcloud.com) - AI Font Search
-- 2024.08 ~ now: [FontFont](https://fontfont.app) - AI Font Search
-- 2024.08 ~ now: [Enterpix](https://enterpix.app) - AI Image Search
-- 2024.04 ~ now: [MakeDuty](https://makeduty.com) - AI Duty Generator
-- 2024.04 ~ now: [ComfyPrompt](https://comfyprompt.com) - AI Prompt & Image Search
-- 2023.12 ~ now: [Fontwiki](https://fontwiki.com) - AI Text Search
-- 2023.08 ~ now: [Hama](https://hama.app) - AI Image Remove
-- 2023.03 ~ now: [oMyBaby](https://omb.loeaf.com) - Baby Gender Predict
+- 2024.08 ~ now: [SandollCloud](https://sandollcloud.com) - AI Font Search Egine
+- 2024.08 ~ now: [FontFont](https://fontfont.app) - AI Font Search Egine
+- 2024.08 ~ now: [Enterpix](https://enterpix.app) - AI Image Search Egine
+- 2024.04 ~ now: [MakeDuty](https://makeduty.com) - AI Duty Generator Egine
+- 2024.04 ~ now: [ComfyPrompt](https://comfyprompt.com) - AI Prompt & Image Search Egine
+- 2023.12 ~ now: [Fontwiki](https://fontwiki.com) - AI Text Search Egine
+- 2023.08 ~ now: [Hama](https://hama.app) - AI Image Remove Egine
+- 2023.03 ~ now: [oMyBaby](https://omb.loeaf.com) - Baby Gender Predict Egine
 - 2023.03 ~ now: [FontSpade](https://fontspade.loeaf.com) - Emoji Generate
-- 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Standard Word Generate
-- 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - Metavers Service
-- 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.lh.or.kr) - City DigitalTwin
+- 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Standard Word Generate Egine
+- 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - Metavers Service MMO Egine
+- 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.lh.or.kr) - City DigitalTwin Vis Egine
 
 ### Skills
 
