@@ -34,7 +34,7 @@
 - 2023.08 ~ now: [Hama](https://hama.app) - AI Image Remove Engine
 - 2023.03 ~ now: [oMyBaby](https://omb.loeaf.com) - Baby Gender Predict Engine
 - 2023.03 ~ now: [FontSpade](https://fontspade.loeaf.com) - Emoji Generate
-- 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Standard Word Generate Engine
+- 2023.03 ~ now: [Wordic](http://wordic.loeaf.com) - Text Abbreviate Engine
 - 2022.08 ~ 2023.04: Duplanet(Deprecate Service) - WegGL Metavers MMO Egine
 - 2021.01 ~ 2022.08: [DigitalTwin](https://dtinfo.lh.or.kr) - City DigitalTwin Vis Engine
 
