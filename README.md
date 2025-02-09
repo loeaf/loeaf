@@ -25,6 +25,7 @@
 </p>
 
 ### Operation Site
+- 2025.02 ~ now: [G2BAlert](https://g2bmarket.com) - Dynamic Alert Service
 - 2024.08 ~ now: [SandollCloud](https://sandollcloud.com) - AI Font Search Engine
 - 2024.08 ~ now: [FontFont](https://fontfont.app) - AI Font Search Engine
 - 2024.08 ~ now: [Enterpix](https://enterpix.app) - AI Image Search Engine
